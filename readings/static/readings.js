@@ -20,7 +20,7 @@ String.prototype.format.regex = new RegExp("{-?[0-9]+}", "g");
 function renderlist()
 {
 	$.getJSON("readings/readings.json", function(data){
-		var listhtml = "<h2>我的阅读列表</h2>";
+		var listhtml = "<h2>读书列表 &bull; <a href='http://lw1990.name/'>卢威(LU WEI)</a></h2><hr/>";
 		for(var i=0; i< data.length; ++i)
 		{
 			if(data[i]["status"] == 0){
@@ -42,7 +42,7 @@ function genItemHtml(item)
 	var htmlstr =
 		"<div class='row'> \
 		     <div class='col-md-3'> \
-			     <b>{0}<b/> \
+			     &bull; <b>{0}<b/> \
 			 </div> \
 			 <div class='col-md-2'> \
 			     <b>开始:{1}<b/> \
