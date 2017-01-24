@@ -11,7 +11,7 @@
 {
 	"title":"西游记",
 	"start":"2017-01-02",
-	"progress":577,
+	"progress":870,
 	"pages":2523,
 	"end":"",
 	"status":0
@@ -19,8 +19,25 @@
 {
         "title":"设计心理学(I,II,III)",
 	"start":"2017-01-19",
-	"progress":59,
+	"progress":106,
 	"pages":1627,
+	"end":"",
+	"status":0
+},
+
+{
+        "title":"大问题-简明哲学导论",
+	"start":"2017-01-23",
+	"progress":40,
+	"pages":541,
+	"end":"",
+	"status":0
+},
+{
+        "title":"风格的要素(中英对照版)",
+	"start":"2017-01-24",
+	"progress":120,
+	"pages":220,
 	"end":"",
 	"status":0
 }
