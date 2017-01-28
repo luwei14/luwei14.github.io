@@ -11,7 +11,7 @@
 {
 	"title":"西游记",
 	"start":"2017-01-02",
-	"progress":870,
+	"progress":1000,
 	"pages":2523,
 	"end":"",
 	"status":0
@@ -28,7 +28,7 @@
 {
         "title":"大问题-简明哲学导论",
 	"start":"2017-01-23",
-	"progress":40,
+	"progress":60,
 	"pages":541,
 	"end":"",
 	"status":0
@@ -36,7 +36,7 @@
 {
         "title":"风格的要素(中英对照版)",
 	"start":"2017-01-24",
-	"progress":120,
+	"progress":149,
 	"pages":220,
 	"end":"",
 	"status":0
