@@ -24,11 +24,16 @@ function renderlist()
 		for(var i=0; i< data.length; ++i)
 		{
 			if(data[i]["status"] == 0){
-				console.log(data[i]);
-				data[i]["end"] = "未读完";
+				//console.log(data[i]);
 				data[i]["progressP"] = Math.floor(data[i]["progress"] / data[i]["pages"] * 100);
-				console.log()
+				//console.log()
 				data[i]["time"] = Math.floor((new Date() - new Date(data[i]["start"]))/(24*3600*1000));
+				data[i]["end"] = "("+data[i]["progress"]+"/"+data[i]["pages"]+")";
+			}
+			else if(data[i]["status"] == 1)
+			{
+				data[i]["progressP"] = Math.floor(data[i]["progress"] / data[i]["pages"] * 100);
+				data[i]["time"] = Math.floor((new Date(data[i]["end"]) - new Date(data[i]["start"]))/(24*3600*1000));
 			}
 			var itemhtml = genItemHtml(data[i]);
 			listhtml　+= itemhtml;
@@ -48,8 +53,8 @@ function genItemHtml(item)
 			     <b>开始:{1}<b/> \
 			 </div> \
 			<div class='col-md-4'> \
-			    <div class='progress'> ({5}/{6}) \
-					<div class='progress-bar progress-bar-success' role='progressbar' aria-valuenow='{2}' aria-valuemin='0' aria-valuemax='100' style='width:{2}%;'>{2}%</div> \
+			    <div class='progress'> \
+					<div class='progress-bar progress-bar-success' role='progressbar' aria-valuenow='{2}' aria-valuemin='0' aria-valuemax='100' style='min-width: 2em;width:{2}%;'>{2}% </div> \
 				</div> \
 		    </div> \
 			<div class='col-md-2'> \
@@ -59,5 +64,5 @@ function genItemHtml(item)
 			     <b>已用:{4}天<b/> \
 			</div> \
 		</div>　"
-	return htmlstr.format([item["title"], item["start"],item["progressP"],item["end"],item["time"],item["progress"],item["pages"]]);
+	return htmlstr.format([item["title"], item["start"],item["progressP"],item["end"],item["time"]]);
 }
