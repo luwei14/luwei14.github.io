@@ -3,18 +3,20 @@
 {
 	"title":"Naive Set Theory",
 	"start":"2017-01-01",
-	"progress":16,
+	"progress":21,
 	"pages":102,
 	"end":"",
-	"status":0
+	"status":0,
+	"links":"https://book.douban.com/subject/2006139/"
 },
 {
 	"title":"西游记",
 	"start":"2017-01-02",
-	"progress":1358,
+	"progress":1556,
 	"pages":2523,
 	"end":"",
-	"status":0
+	"status":0,
+	"links":"http://www.duokan.com/book/436"
 },
 {
         "title":"设计心理学(I,II,III)",
@@ -22,7 +24,8 @@
 	"progress":132,
 	"pages":1627,
 	"end":"",
-	"status":0
+	"status":0,
+	"links":"http://www.duokan.com/book/91618"
 },
 
 {
@@ -31,7 +34,8 @@
 	"progress":93,
 	"pages":541,
 	"end":"",
-	"status":0
+	"status":0,
+	"links":"https://book.douban.com/subject/25961458/"
 },
 {
         "title":"风格的要素(中英对照版)",
@@ -39,7 +43,8 @@
 	"progress":220,
 	"pages":220,
 	"end":"2017-02-08",
-	"status":1
+	"status":1,
+	"links":"https://book.douban.com/subject/1451400/"
 }
 ,
 {
@@ -48,6 +53,16 @@
 	"progress":2,
 	"pages":12,
 	"end":"",
-	"status":0
+	"status":0,
+	"links":"https://probmods.org/index.html"
+},
+{
+        "title":"那些消失的文明",
+	"start":"2017-02-09",
+	"progress":145,
+	"pages":145,
+	"end":"2017-02-12",
+	"status":1,
+	"links":"https://book.douban.com/subject/26307023/"
 }
 ]

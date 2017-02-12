@@ -20,6 +20,7 @@ String.prototype.format.regex = new RegExp("{-?[0-9]+}", "g");
 function renderlist()
 {
 	$.getJSON("readings/readings.json", function(data){
+		data = data.reverse();
 		var listhtml = "<h2>读书列表 &bull; <a href='http://lw1990.name/'>卢威(LU WEI)</a></h2><hr/>";
 		for(var i=0; i< data.length; ++i)
 		{
@@ -47,7 +48,7 @@ function genItemHtml(item)
 	var htmlstr =
 		"<div class='row'> \
 		     <div class='col-md-3'> \
-			     &bull; <b>{0}<b/> \
+			     &bull; <b><a href='{5}'>{0}</a><b/> \
 			 </div> \
 			 <div class='col-md-2'> \
 			     <b>开始:{1}<b/> \
@@ -64,5 +65,5 @@ function genItemHtml(item)
 			     <b>已用:{4}天<b/> \
 			</div> \
 		</div>　"
-	return htmlstr.format([item["title"], item["start"],item["progressP"],item["end"],item["time"]]);
+	return htmlstr.format([item["title"], item["start"],item["progressP"],item["end"],item["time"],item["links"]]);
 }
