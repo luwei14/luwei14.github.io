@@ -64,6 +64,6 @@ function genItemHtml(item)
 		    <div class='col-md-1'> \
 			     <b>已用:{4}天<b/> \
 			</div> \
-		</div>　"
+		</div><hr style='padding: 10px; margin: 0px;'/>"
 	return htmlstr.format([item["title"], item["start"],item["progressP"],item["end"],item["time"],item["links"]]);
 }
