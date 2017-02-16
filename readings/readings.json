@@ -12,7 +12,7 @@
 {
 	"title":"西游记",
 	"start":"2017-01-02",
-	"progress":1556,
+	"progress":1848,
 	"pages":2523,
 	"end":"",
 	"status":0,
@@ -21,7 +21,7 @@
 {
         "title":"设计心理学(I,II,III)",
 	"start":"2017-01-19",
-	"progress":132,
+	"progress":142,
 	"pages":1627,
 	"end":"",
 	"status":0,
@@ -31,7 +31,7 @@
 {
         "title":"大问题-简明哲学导论",
 	"start":"2017-01-23",
-	"progress":93,
+	"progress":118,
 	"pages":541,
 	"end":"",
 	"status":0,
@@ -64,5 +64,23 @@
 	"end":"2017-02-12",
 	"status":1,
 	"links":"https://book.douban.com/subject/26307023/"
+},
+{
+        "title":"上帝掷骰子吗：量子物理史话",
+	"start":"2017-02-14",
+	"progress":53,
+	"pages":381,
+	"end":"",
+	"status":0,
+	"links":"https://book.douban.com/subject/26307023/"
+},
+{
+        "title":"终极算法",
+	"start":"2017-02-15",
+	"progress":49,
+	"pages":402,
+	"end":"",
+	"status":0,
+	"links":"https://book.douban.com/subject/26931905/"
 }
 ]
