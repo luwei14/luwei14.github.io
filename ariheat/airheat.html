@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Air Quality Heatmap of Monitoring Stations in China (2014-2016)</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
+	  <link rel="stylesheet" href="readings/static/style.css">
+	  <script src="https://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
+	  <script src="https://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <style>
+      body {
+        color: #333;
+        font-family: 'Fira Sans';
+        margin:10px 10px;
+      }
+      .imgali img{
+        vertical-align: top;
+      }
+    </style>
+  </head>
+  <body>
+    <h1> Air Quality Heatmap of Monitoring Stations in China (2014-2016)</h1>
+    <p style="color:blue">Works by <a href="http://lw1990.name">LU WEI</a>. 
+    Contact: whuluwei[at]gmail[dot]com<br/>
+    Time series: Horizontal; Monitoring Stations: Vertical.<br/>
+    You can save these images as files to see the details.
+    </p>
+    <div class="row">
+      <div class="col-md-1">2014,Spring</div>
+      <div class="col-md-1">2014,Summer</div>
+      <div class="col-md-1">2014,Autumn</div>
+      <div class="col-md-1">2014,Winter</div>
+      <div class="col-md-1">2015,Spring</div>
+      <div class="col-md-1">2015,Summer</div>
+      <div class="col-md-1">2015,Autumn</div>
+      <div class="col-md-1">2015,Winter</div>
+      <div class="col-md-1">2016,Spring</div>
+      <div class="col-md-1">2016,Summer</div>
+      <div class="col-md-1">2016,Autumn</div>
+      <div class="col-md-1">2016,Winter</div>
+    </div>
+    <div class="row imgali">
+        <img src="2014.png" width="33%"/>
+        <img src="2015.png" width="33%"/>
+        <img src="2016.png" width="33%"/>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
