@@ -31,7 +31,7 @@
 {
         "title":"大问题-简明哲学导论",
 	"start":"2017-01-23",
-	"progress":164,
+	"progress":185,
 	"pages":541,
 	"end":"",
 	"status":0,
@@ -77,16 +77,16 @@
 {
         "title":"终极算法",
 	"start":"2017-02-15",
-	"progress":264,
+	"progress":402,
 	"pages":402,
-	"end":"",
-	"status":0,
+	"end":"2017-03-18",
+	"status":1,
 	"links":"https://book.douban.com/subject/26931905/"
 },
 {
         "title":"On Writing Well",
 	"start":"2017-02-22",
-	"progress":53,
+	"progress":70,
 	"pages":303,
 	"end":"",
 	"status":0,
