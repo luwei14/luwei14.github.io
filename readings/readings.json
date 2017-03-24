@@ -122,7 +122,7 @@
 {
         "title":"地图学",
 	"start":"2017-03-12",
-	"progress":70,
+	"progress":78,
 	"pages":502,
 	"end":"",
 	"status":0,
@@ -131,10 +131,19 @@
 {
         "title":"神们自己",
 	"start":"2017-03-19",
-	"progress":165,
+	"progress":404,
 	"pages":670,
 	"end":"",
 	"status":0,
 	"links":"http://www.duokan.com/book/83161"
+},
+{
+        "title":"尼采：在世纪的转折点上",
+	"start":"2017-03-19",
+	"progress":56,
+	"pages":485,
+	"end":"",
+	"status":0,
+	"links":"http://www.duokan.com/book/95169"
 }
 ]
