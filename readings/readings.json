@@ -31,7 +31,7 @@
 {
         "title":"大问题-简明哲学导论",
 	"start":"2017-01-23",
-	"progress":185,
+	"progress":196,
 	"pages":541,
 	"end":"",
 	"status":0,
@@ -86,7 +86,7 @@
 {
         "title":"On Writing Well",
 	"start":"2017-02-22",
-	"progress":70,
+	"progress":74,
 	"pages":303,
 	"end":"",
 	"status":0,
@@ -122,7 +122,7 @@
 {
         "title":"地图学",
 	"start":"2017-03-12",
-	"progress":78,
+	"progress":106,
 	"pages":502,
 	"end":"",
 	"status":0,
@@ -140,10 +140,19 @@
 {
         "title":"尼采：在世纪的转折点上",
 	"start":"2017-03-19",
-	"progress":100,
+	"progress":248,
 	"pages":485,
 	"end":"",
 	"status":0,
 	"links":"http://www.duokan.com/book/95169"
+},
+{
+        "title":"银河帝国：基地",
+	"start":"2017-03-31",
+	"progress":37,
+	"pages":233,
+	"end":"",
+	"status":0,
+	"links":"https://book.douban.com/subject/7065521/"
 }
 ]
