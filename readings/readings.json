@@ -19,7 +19,7 @@
 	"links":"http://www.duokan.com/book/436"
 },
 {
-        "title":"设计心理学1:日常的设计",
+  "title":"设计心理学1:日常的设计",
 	"start":"2017-01-19",
 	"progress":178,
 	"pages":334,
@@ -29,7 +29,7 @@
 },
 
 {
-        "title":"大问题-简明哲学导论",
+  "title":"大问题-简明哲学导论",
 	"start":"2017-01-23",
 	"progress":222,
 	"pages":541,
@@ -38,7 +38,7 @@
 	"links":"https://book.douban.com/subject/25961458/"
 },
 {
-        "title":"风格的要素(中英对照版)",
+  "title":"风格的要素(中英对照版)",
 	"start":"2017-01-24",
 	"progress":220,
 	"pages":220,
@@ -48,7 +48,7 @@
 }
 ,
 {
-        "title":"Probabilistic Models of Cognition",
+  "title":"Probabilistic Models of Cognition",
 	"start":"2017-02-07",
 	"progress":2,
 	"pages":12,
@@ -57,7 +57,7 @@
 	"links":"https://probmods.org/index.html"
 },
 {
-        "title":"那些消失的文明",
+  "title":"那些消失的文明",
 	"start":"2017-02-09",
 	"progress":145,
 	"pages":145,
@@ -66,7 +66,7 @@
 	"links":"https://book.douban.com/subject/26307023/"
 },
 {
-        "title":"上帝掷骰子吗：量子物理史话",
+  "title":"上帝掷骰子吗：量子物理史话",
 	"start":"2017-02-14",
 	"progress":361,
 	"pages":361,
@@ -75,7 +75,7 @@
 	"links":"https://book.douban.com/subject/26307023/"
 },
 {
-        "title":"终极算法",
+  "title":"终极算法",
 	"start":"2017-02-15",
 	"progress":402,
 	"pages":402,
@@ -84,7 +84,7 @@
 	"links":"https://book.douban.com/subject/26931905/"
 },
 {
-        "title":"On Writing Well",
+  "title":"On Writing Well",
 	"start":"2017-02-22",
 	"progress":74,
 	"pages":303,
@@ -93,7 +93,7 @@
 	"links":"https://book.douban.com/subject/4740002/"
 },
 {
-        "title":"The Elements of Statistical Learning",
+  "title":"The Elements of Statistical Learning",
 	"start":"2017-02-20",
 	"progress":24,
 	"pages":698,
@@ -102,7 +102,7 @@
 	"links":"https://book.douban.com/subject/3294335/"
 },
 {
-        "title":"巨婴国",
+  "title":"巨婴国",
 	"start":"2017-03-06",
 	"progress":1291,
 	"pages":1291,
@@ -111,7 +111,7 @@
 	"links":"https://book.douban.com/subject/26910673/"
 },
 {
-        "title":"The Grammar of Graphics",
+  "title":"The Grammar of Graphics",
 	"start":"2017-03-12",
 	"progress":83,
 	"pages":634,
@@ -120,7 +120,7 @@
 	"links":"https://book.douban.com/subject/10123863/"
 },
 {
-        "title":"地图学",
+  "title":"地图学",
 	"start":"2017-03-12",
 	"progress":106,
 	"pages":502,
@@ -129,7 +129,7 @@
 	"links":"https://book.douban.com/subject/26995524/"
 },
 {
-        "title":"神们自己",
+  "title":"神们自己",
 	"start":"2017-03-19",
 	"progress":670,
 	"pages":670,
@@ -138,7 +138,7 @@
 	"links":"http://www.duokan.com/book/83161"
 },
 {
-        "title":"尼采：在世纪的转折点上",
+  "title":"尼采：在世纪的转折点上",
 	"start":"2017-03-19",
 	"progress":485,
 	"pages":485,
@@ -147,7 +147,7 @@
 	"links":"http://www.duokan.com/book/95169"
 },
 {
-        "title":"银河帝国：基地",
+  "title":"银河帝国：基地",
 	"start":"2017-03-31",
 	"progress":233,
 	"pages":233,
@@ -163,5 +163,14 @@
 	"end":"",
 	"status":0,
 	"links":"https://book.douban.com/subject/26879719/"
+},
+{
+  "title":"数学之美",
+	"start":"2017-04-08",
+	"progress":272,
+	"pages":272,
+	"end":"2017-04-09",
+	"status":1,
+	"links":"https://book.douban.com/subject/10750155/"
 }
 ]
