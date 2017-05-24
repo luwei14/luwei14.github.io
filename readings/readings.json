@@ -199,5 +199,23 @@
 	"end":"2017-05-15",
 	"status":1,
 	"links":"http://www.duokan.com/book/105378"
+},
+{
+  "title":"胡适文存(一)",
+	"start":"2017-05-17",
+	"progress":50,
+	"pages":330,
+	"end":"",
+	"status":0,
+	"links":"https://book.douban.com/subject/24880417/"
+},
+{
+  "title":"系外行星漫游指南",
+	"start":"2017-05-17",
+	"progress":214,
+	"pages":214,
+	"end":"",
+	"status":0,
+	"links":"http://www.duokan.com/book/100099"
 }
 ]
