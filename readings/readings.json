@@ -203,7 +203,7 @@
 {
   "title":"胡适文存(一)",
 	"start":"2017-05-17",
-	"progress":50,
+	"progress":149,
 	"pages":330,
 	"end":"",
 	"status":0,
@@ -217,5 +217,14 @@
 	"end":"2017-05-24",
 	"status":1,
 	"links":"http://www.duokan.com/book/100099"
+},
+{
+  "title":"火星探测：红色星球的奥秘",
+	"start":"2017-05-30",
+	"progress":186,
+	"pages":186,
+	"end":"2017-06-03",
+	"status":1,
+	"links":"http://www.duokan.com/book/113362"
 }
 ]
