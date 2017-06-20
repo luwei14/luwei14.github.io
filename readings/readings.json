@@ -235,5 +235,14 @@
 	"end":"2017-06-11",
 	"status":1,
 	"links":"http://www.duokan.com/book/87918"
+},
+{
+  "title":"自然计算：DNA、量子比特和智能机器的未来",
+	"start":"2017-06-12",
+	"progress":224,
+	"pages":224,
+	"end":"1",
+	"status":"2017-06-20",
+	"links":"http://www.duokan.com/book/94498"
 }
 ]
