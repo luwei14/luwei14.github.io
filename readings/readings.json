@@ -262,5 +262,23 @@
 	"end":"",
 	"status":0,
 	"links":"https://book.douban.com/subject/25752043/"
+},
+{
+  "title":"古今数学思想-I(英文版)",
+	"start":"2017-07-11",
+	"progress":60,
+	"pages":390,
+	"end":"",
+	"status":0,
+	"links":"https://book.douban.com/subject/25833340/"
+},
+{
+  "title":"中國近代史(上、下冊)",
+	"start":"2017-07-17",
+	"progress":103,
+	"pages":1041,
+	"end":"",
+	"status":0,
+	"links":"https://book.douban.com/subject/25833340/"
 }
 ]
