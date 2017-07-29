@@ -257,7 +257,7 @@
 {
   "title":"信息简史",
 	"start":"2017-06-30",
-	"progress":63,
+	"progress":125,
 	"pages":458,
 	"end":"",
 	"status":0,
@@ -266,7 +266,7 @@
 {
   "title":"古今数学思想-I(英文版)",
 	"start":"2017-07-11",
-	"progress":60,
+	"progress":74,
 	"pages":390,
 	"end":"",
 	"status":0,
@@ -275,10 +275,19 @@
 {
   "title":"中國近代史(上、下冊)",
 	"start":"2017-07-17",
-	"progress":103,
+	"progress":230,
 	"pages":1041,
 	"end":"",
 	"status":0,
 	"links":"https://book.douban.com/subject/1476213/"
+},
+{
+  "title":"斯文：帮忙、帮闲、帮腔、帮凶及其他",
+	"start":"2017-07-27",
+	"progress":248,
+	"pages":248,
+	"end":"2017-07-29",
+	"status":1,
+	"links":"https://book.douban.com/subject/22207603/"
 }
 ]
