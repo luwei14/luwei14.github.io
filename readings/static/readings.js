@@ -34,7 +34,7 @@ function renderlist()
 			else if(data[i]["status"] == 1)
 			{
 				data[i]["progressP"] = Math.floor(data[i]["progress"] / data[i]["pages"] * 100);
-				data[i]["time"] = Math.floor((new Date(data[i]["end"]) - new Date(data[i]["start"]))/(24*3600*1000));
+				data[i]["time"] = Math.floor((new Date(data[i]["end"]) - new Date(data[i]["start"]))/(24*3600*1000))+1;
 			}
 			var itemhtml = genItemHtml(data[i]);
 			listhtml　+= itemhtml;
