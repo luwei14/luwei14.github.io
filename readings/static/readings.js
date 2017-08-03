@@ -28,7 +28,7 @@ function renderlist()
 				//console.log(data[i]);
 				data[i]["progressP"] = Math.floor(data[i]["progress"] / data[i]["pages"] * 100);
 				//console.log()
-				data[i]["time"] = Math.floor((new Date() - new Date(data[i]["start"]))/(24*3600*1000));
+				data[i]["time"] = Math.floor((new Date() - new Date(data[i]["start"]))/(24*3600*1000))+1;
 				data[i]["end"] = "("+data[i]["progress"]+"/"+data[i]["pages"]+")";
 			}
 			else if(data[i]["status"] == 1)
