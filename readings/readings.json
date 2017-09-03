@@ -275,7 +275,7 @@
 {
   "title":"中國近代史(上、下冊)",
 	"start":"2017-07-17",
-	"progress":386,
+	"progress":405,
 	"pages":1041,
 	"end":"",
 	"status":0,
@@ -311,7 +311,7 @@
 {
   "title":"群氓之族",
 	"start":"2017-08-12",
-	"progress":164,
+	"progress":368,
 	"pages":368,
 	"end":"",
 	"status":0,
@@ -320,7 +320,7 @@
 {
   "title":"学术与政治",
 	"start":"2017-08-12",
-	"progress":106,
+	"progress":118,
 	"pages":340,
 	"end":"",
 	"status":0,
@@ -334,5 +334,14 @@
 	"end":"",
 	"status":0,
 	"links":"https://book.douban.com/subject/26102860/"
+},
+{
+  "title":"维特根斯坦传",
+	"start":"2017-08-27",
+	"progress":35,
+	"pages":674,
+	"end":"",
+	"status":0,
+	"links":"https://book.douban.com/subject/6152040/"
 }
 ]
